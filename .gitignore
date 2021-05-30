@@ -1,2 +1,6 @@
 data/*
 !data/example.csv
+!data/SDSS.xls
+!data/SDSS.csv
+!data/transcoding_data.xls
+!data/transcoding_data.csv
